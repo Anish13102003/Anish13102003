@@ -45,6 +45,13 @@ Here are some ideas to get you started:
 
 🎓  B.Tech in Information Technology, CEG Anna University (2025), Chennai
 
+
+📜 Certifications
+
+- Java Full Stack Certificate
+- IBM Certificate
+- Internship Certificate
+
 ### 💻 I code in
 
 <p>
@@ -57,12 +64,6 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github" />
 </p>
 
-📜 Certifications
-
-- Java Full Stack Certificate
-- IBM Certificate
-- Internship Certificate
-
 
 🤝 Let us connect
 
@@ -70,11 +71,7 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/anish-m-a749a1382"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Anish13102003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:anishpalani1310@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="  https://www.instagram.com/anish_raja.7_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish13102003&bg_color=0d1117&color=ffffff&line=D35400&point=ffffff&area=true&hide_border=true" />
+  <a href="https://www.instagram.com/anish_raja.7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center">
