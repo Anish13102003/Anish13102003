@@ -14,3 +14,86 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi, I am Anish👋</h1>
+
+<p align="center">
+  Passionate about Java development, backend technologies, and building practical applications. Currently improving my problem-solving skills and preparing for Java Developer opportunities.
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@hareeshrajendran"><img src="https://img.shields.io/badge/YouTube-123K%2B_Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/hareeshprogrammer"><img src="https://img.shields.io/badge/LeetCode-2067_Rating_Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://vanakkamdsa.com"><img src="https://img.shields.io/badge/Vanakkam_DSA-Tamil_Cohorts-D35400?style=for-the-badge&logoColor=white" /></a>
+</p>
+
+---
+
+### 🚀 What I am up to
+
+- ☕ Learning Java programming, OOP concepts, Collections, Exception Handling, and JDBC.
+
+💻 Building backend applications using Java, JDBC, Servlets, JSP, and MySQL.
+
+🧩 Practicing Data Structures and Algorithms to improve problem-solving skills.
+
+🌱 Exploring Spring Boot and backend development.
+
+🎯 Preparing for Java Developer and Java Developer Intern opportunities.
+
+⚡ Interested in creating practical, secure, and user-friendly software applications.
+
+### 💼 Journey so far
+
+| Role | Where | Period |
+| ---- | ----- | ------ |
+| Founder and CEO | Hayan Tech and Vanakkam DSA | Present |
+| Product Engineer | Highbrow Technology (Cleverhire.ai) | Dec 2024 to 2026 |
+| Member of Technical Staff, Product Owner of Zgraph | Zoho, Catalyst | Jun 2023 to Nov 2024 |
+| Project Trainee | Zoho | Jul 2022 to Jun 2023 |
+| Apprentice | Amazon | Apprenticeship |
+
+🎓 BE Computer Science, RMK Engineering College (2023), graduated with distinction
+
+### 📊 By the numbers
+
+| 🎥 YouTube | 🧩 Problems solved | 🏆 LeetCode contest rating | 🥇 Global rank |
+| :---: | :---: | :---: | :---: |
+| 123K+ subscribers | 4,000+ across platforms, 780+ on LeetCode | 2,067 (Knight) | 13,474 / 800,000+ |
+
+### 💻 I code in
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,react,nodejs,spring,graphql,mysql,mongodb,firebase,tensorflow,html,css,sass,bootstrap,arduino" />
+</p>
+
+### 🛠️ Tools I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,git,anaconda,notion,figma,photoshop,netlify" />
+</p>
+
+### 🤝 Let us connect
+
+<p>
+  <a href="https://www.youtube.com/@hareeshrajendran"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hareesh-r/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/hareeshrajendran_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/hareesh_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://vanakkamdsa.com"><img src="https://img.shields.io/badge/Vanakkam_DSA-D35400?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://hareesh.web.app/"><img src="https://img.shields.io/badge/Portfolio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
+</p>
+
+### 📈 GitHub and LeetCode stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hareesh-r&show_icons=true&hide=issues,contribs&theme=dark&title_color=D35400&icon_color=C0392B&text_color=ffffff&bg_color=0d1117&border_color=C0392B" />
+  <a href="https://leetcode.com/u/hareeshprogrammer"><img height="170" src="https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=0d1117&color=ffffff&line=D35400&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="http://hits.dwyl.com/hareesh-r/hareesh-r.svg" />
+</p>
