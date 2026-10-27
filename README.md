@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 ### 🚀 What I am up to
 
-- ☕ Learning Java, Object-Oriented Programming, Collections, Exception Handling, and JDBC
-- 💻 Building backend applications using Java, Servlets, JSP, and MySQL
-- 🧠 Practicing Data Structures and Algorithms for coding interviews
-- 🌱 Exploring Spring Boot and modern backend development
+- ☕ Learning Java, Object-Oriented Programming, Collections, Exception Handling, and JDBC.
+- 💻 Building backend applications using Java, Servlets, JSP, and MySQL.
+- 🧠 Practicing Data Structures and Algorithms for coding interviews.
+- 🌱 Exploring Spring Boot and modern backend development.
 - 🎯 Preparing for Java Developer and Java Developer Intern opportunities.
 - 🔭 Portfolio: [Anish.web.app](https://portfolio-red-ten-x6lmb87c4d.vercel.app/) 
 - ⚡ Interested learning new technologies and turning ideas into working applications.
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 
 🎓  B.Tech in Information Technology, CEG Anna University (2025), Chennai
 
+---
 
 📜 Certifications
 
