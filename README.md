@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ---
 
-📜 Certifications
+### 📜 Certifications
 
 - Java Full Stack Certificate
 - IBM Certificate
@@ -59,14 +59,14 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,spring,git,github" />
 </p>
 
-🛠️ Tools I use
+### 🛠️ Tools I use
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github" />
 </p>
 
 
-🤝 Let us connect
+### 🤝 Let us connect
 
 <p>
   <a href="https://linkedin.com/in/anish-m-a749a1382"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
